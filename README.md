@@ -10,4 +10,4 @@
 - 😄 Nick name: acoustician
 
 
-!(ln)[https://github.com/acoustician/acoustician/blob/main/png-transparent-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue-angle-thumbnail.png?raw=true]
+![ln](https://w7.pngwing.com/pngs/93/587/png-transparent-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue-angle-thumbnail.png)
