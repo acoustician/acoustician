@@ -8,3 +8,6 @@
 - 💬 Ask me about you want to know.
 - 📫 How to reach me: sharma.gourav.9617@gmail.com
 - 😄 Nick name: acoustician
+
+
+[https://w7.pngwing.com/pngs/93/587/png-transparent-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue-angle-thumbnail.png?]
