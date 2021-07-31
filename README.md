@@ -14,5 +14,4 @@
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30">](https://www.linkedin.com/in/gourav-sharma-ds)
 
 **You can saw my Project Repository:**
-
 [<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_505df21738edbe9baababa9d60be291d/github.png" width="400" height="200">](https://github.com/acoustician?tab=repositories)
