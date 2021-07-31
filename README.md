@@ -1,5 +1,5 @@
-# Hi there 👋 i'm Gourav Sharma
-  ****An aspiring Data scientist
+## Hi there 👋 i'm Gourav Sharma
+    **An aspiring Data scientist**
 
 
 - 🔭 I’m currently working on Machine learning
