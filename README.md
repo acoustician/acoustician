@@ -1,5 +1,5 @@
-#                                        Hi there 👋 i'm Gourav Sharma
-                                       ****An aspiring Data scientist
+# Hi there 👋 i'm Gourav Sharma
+  ****An aspiring Data scientist
 
 
 - 🔭 I’m currently working on Machine learning
@@ -9,6 +9,6 @@
 - 📫 How to reach me: sharma.gourav.9617@gmail.com
 - 😄 Nick name: acoustician
 
-*Connect with me:*
+****Connect with me:
 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30">](https://www.linkedin.com/in/gourav-sharma-ds)
