@@ -15,4 +15,4 @@
 
 **You can saw my Project Repository:**
 
-[<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_505df21738edbe9baababa9d60be291d/github.png" width="30" height="30">](https://github.com/acoustician?tab=repositories)
+[<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_505df21738edbe9baababa9d60be291d/github.png" width="100" height="100">](https://github.com/acoustician?tab=repositories)
