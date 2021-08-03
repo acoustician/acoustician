@@ -13,6 +13,6 @@
 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30">](https://www.linkedin.com/in/gourav-sharma-ds)
 
-**You can saw my Project Repository:**
+**Have a look of my Project Repositories:**
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="50" height="50">](https://github.com/acoustician?tab=repositories)
