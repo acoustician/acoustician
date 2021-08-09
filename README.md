@@ -1,5 +1,6 @@
 ## Hi there 👋 i'm Gourav Sharma
-   **An aspiring Data scientist**
+   **A Data scientist**
+   **A Guitarist**
 
 
 - 🔭 I’m currently working on Machine learning
