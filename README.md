@@ -14,6 +14,8 @@
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30">](https://www.linkedin.com/in/gourav-sharma-ds)   
   
   [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/256px-Facebook_icon.svg.png" width="30" height="30">](https://www.facebook.com/gouravts/)
+  
+   [<img src="https://parentzone.org.uk/sites/default/files/Instagram%20logo.jpg" width="30" height="30">](https://www.instagram.com/the_acoustician/)
 
 **Have a look of my Project Repositories:**
 
