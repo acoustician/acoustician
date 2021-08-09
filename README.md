@@ -16,6 +16,10 @@
   [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/256px-Facebook_icon.svg.png" width="30" height="30">](https://www.facebook.com/gouravts/)
   
    [<img src="https://parentzone.org.uk/sites/default/files/Instagram%20logo.jpg" width="30" height="30">](https://www.instagram.com/the_acoustician/)
+   
+    [<img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" width="30" height="30">](https://twitter.com/sg0uravs)
+   
+  
 
 **Have a look of my Project Repositories:**
 
